@@ -29,6 +29,10 @@ The program is a react application that converts markdown text into html tags an
 
 In the project directory, you can run:
 
+### `npm install`
+
+To install the node modules first after you `git clone` this repository.
+
 ### `npm start`
 
 Runs the app in the development mode.\
