@@ -2,6 +2,52 @@
   text-align: center;
 }
 
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid #B7A9A1;
+  padding: 10px;
+  background-color: #FFE01B;
+}
+
+#title {
+  margin: auto;
+  font-size: 1vw;
+  text-align: center;
+  color: #241C15;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.boxes {
+  background-color: #B7A9A1;
+}
+
+.htmlRegion {
+  width: 20vw;
+  height: 25vh;
+}
+
+.displayRegion{
+  width: 20vw;
+  height: 25vh;
+}
+
+button {
+  background-color: #007C89;
+  color: white;
+  font-size: large;
+  padding: 10px 10px 10px 10px;
+  border: 3px solid #403B3B;
+
+  position:relative;
+  top: 40%;
+  left: 35%;
+}
+
+.space {
+  margin: 10px 10px 10px 10px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
